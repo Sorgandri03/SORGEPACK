@@ -1,18 +1,18 @@
 {
-    "format_version": 2,
-    "header": {
-        "description": "They're groovin",
-        "name": "SorgePack",
-        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
-        "version": [2, 1, 0],
-        "min_engine_version": [ 1, 16, 0 ]
-    },
-    "modules": [
-        {
-            "description": "Example vanilla resource pack",
-            "type": "resources",
-            "uuid": "743f6949-53be-44b6-b326-398005028819",
-            "version": [0, 0, 1]
-        }
-    ]
+  "format_version": 2,
+  "header": {
+    "description": "They do be groovin",
+    "name": "SorgePack BE",
+    "uuid": "5db2a35b-ac3a-4c2e-8d08-91bbb559b3ac",
+    "version": [3, 0, 0],
+    "min_engine_version": [1, 17, 30]
+  },
+  "modules": [
+    {
+      "description": "SorgePack BE",
+      "type": "resources",
+      "uuid": "a20d63c8-7f73-443b-a6bd-13c73bd4bc85",
+      "version": [3, 0, 0]
+    }
+  ]
 }
